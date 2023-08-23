@@ -1,0 +1,16 @@
+remote_theme: coursweb/jk-theme
+title: Titre Fiche Lecture
+description: Description
+lang: fr-FR
+chapters:
+ - title: Link 1
+   url: https://cours-web.ch/
+ - title: Link 2
+   url: https://github.com/
+
+   # Footer content
+# Content is split in three columns.   
+footer_col_1: <ul class="contact-list">
+  <li>On Github</li>
+  <li>ca. 2020-ish</li></ul>
+footer_col_2: <ul class="social-media-list"><li>Made with <a href="https://github.com/coursweb/jk-theme">JK-Theme</a></li></ul>
